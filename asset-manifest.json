@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.9b45013c.chunk.js",
+    "main.js.map": "/static/js/main.9b45013c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.deb660d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.deb660d4.js.map",
+    "static/js/2.bb7d990d.chunk.js": "/static/js/2.bb7d990d.chunk.js",
+    "static/js/2.bb7d990d.chunk.js.map": "/static/js/2.bb7d990d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.971c7d385dd1a54abb5085cec45ff0ab.js": "/precache-manifest.971c7d385dd1a54abb5085cec45ff0ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.bb7d990d.chunk.js.LICENSE.txt": "/static/js/2.bb7d990d.chunk.js.LICENSE.txt",
+    "static/media/ankit.jpg": "/static/media/ankit.42e1233f.jpg",
+    "static/media/aws-ccp.png": "/static/media/aws-ccp.633ff057.png",
+    "static/media/aws-csaa.png": "/static/media/aws-csaa.68510a7a.png",
+    "static/media/ccent.png": "/static/media/ccent.335b251b.png",
+    "static/media/ccna.png": "/static/media/ccna.76a868d8.png",
+    "static/media/mcaf.png": "/static/media/mcaf.b93c8ca1.png",
+    "static/media/mcaif.png": "/static/media/mcaif.bd928b03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deb660d4.js",
+    "static/js/2.bb7d990d.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.9b45013c.chunk.js"
+  ]
+}
