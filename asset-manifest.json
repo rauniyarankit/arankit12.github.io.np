@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.824827dc.css",
-    "main.js": "/static/js/main.8688b603.js",
+    "main.css": "/static/css/main.f6d9839e.css",
+    "main.js": "/static/js/main.cb206144.js",
     "static/media/ankit.webp": "/static/media/ankit.305b46fad91d01d6d003.webp",
+    "static/media/ankit-resume.pdf": "/static/media/ankit-resume.1194fda87f1fa241af35.pdf",
     "static/media/mcasae.png": "/static/media/mcasae.f72ae5a45f364419a576.png",
     "static/media/mcaf.webp": "/static/media/mcaf.a1e2da65952f8b48ffb9.webp",
     "static/media/mcaaa.webp": "/static/media/mcaaa.e1e34fa23bd4631dd250.webp",
@@ -12,11 +13,11 @@
     "static/media/ccna-light.webp": "/static/media/ccna-light.0475f3e0515035d63d77.webp",
     "static/media/ccna-dark.webp": "/static/media/ccna-dark.4a5d8a1ab2f4fdc8e946.webp",
     "index.html": "/index.html",
-    "main.824827dc.css.map": "/static/css/main.824827dc.css.map",
-    "main.8688b603.js.map": "/static/js/main.8688b603.js.map"
+    "main.f6d9839e.css.map": "/static/css/main.f6d9839e.css.map",
+    "main.cb206144.js.map": "/static/js/main.cb206144.js.map"
   },
   "entrypoints": [
-    "static/css/main.824827dc.css",
-    "static/js/main.8688b603.js"
+    "static/css/main.f6d9839e.css",
+    "static/js/main.cb206144.js"
   ]
 }
